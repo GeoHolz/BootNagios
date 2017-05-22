@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+   <livestatus>
+      <data>/var/lib/nagios/rw/livestatus</data>
+   </livestatus>
+   <PNP>
+		<url>http://X.X.X.X/pnp4nagios</url>
+   </PNP>
+   <nconf>
+		<url>http://X.X.X.X/nconf/</url>
+   </nconf>
+	<index>
+		<name>Test</name>
+		<url>http://X.X.X.X/pnp4nagios/image?host=FO&amp;srv=Trafic&amp;view=0&amp;source=0</url>
+	</index>
+</configuration>
