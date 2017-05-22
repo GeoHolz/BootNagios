@@ -2,6 +2,8 @@
 BootNagios est un front end pour Nagios.
 
 ![alt text](https://raw.githubusercontent.com/geoholz/bootnagios/master/dist/img/ex.png)
+![alt text](https://raw.githubusercontent.com/geoholz/bootnagios/master/dist/img/ex2.png)
+![alt text](https://raw.githubusercontent.com/geoholz/bootnagios/master/dist/img/ex3.png)
 
 Construit sur la base de AdminLTE ( BootStrap )
 
